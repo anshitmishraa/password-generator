@@ -28,7 +28,7 @@ This project is a web-based **Password Generator** application built with HTML, 
 
 ## Demo
 
-You can try the live demo of the password generator [here](https://hungry-goodall-5f8dc5.netlify.app/) (add link when deployed).
+You can try the live demo of the password generator [here](https://hungry-goodall-5f8dc5.netlify.app/).
 
 ---
 
