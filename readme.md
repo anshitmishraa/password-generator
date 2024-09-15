@@ -9,8 +9,6 @@ This project is a web-based **Password Generator** application built with HTML, 
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
